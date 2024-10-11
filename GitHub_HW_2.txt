@@ -11,10 +11,6 @@ git checkout -b Bug_report
 git checkout main
 git checkout -b SQL
 git checkout main
-git checkout -b Cherles
-git checkout main
-git checkout -d Cherles
-git checkout main
 git checkout -b Charles
 git checkout main
 git checkout -b Mobile_testing
