@@ -1,0 +1,10 @@
+1. ID
+2. Severity
+3. Priority
+4. Title
+5. Steps
+6. Expected Result
+7. Actual Resual
+8. Attachment
+9. Author
+10. Comment
