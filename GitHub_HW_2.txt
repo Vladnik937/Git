@@ -15,7 +15,7 @@ git checkout -b Charles
 git checkout main
 git checkout -b Mobile_testing
 git checkout main
-
+---or use git brach-----
 
 2. Запушить все ветки на внешний репозиторий
 git push origin --all
